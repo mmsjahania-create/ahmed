@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PixelSwift Converter",
+  "description": "A high-performance Android-inspired image converter to transform JPGs to PNGs with smart insights using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
